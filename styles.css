@@ -70,3 +70,15 @@ ul {
 .contacto button:hover {
     background-color: #5689c1;
 }
+
+button {
+    background-color: #69a7e2;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5689c1;
+}
